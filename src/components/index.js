@@ -8,6 +8,9 @@ const Loggin = () => {
             <textarea></textarea>
             <div>Password</div>
             <textarea></textarea>
+            <div>Forgot Password?</div>
+            <button>Login</button>
+            <div>Create Account</div>
         </div> 
     )
 }

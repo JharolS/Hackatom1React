@@ -1,3 +1,6 @@
+.option {
+    color: gray;
+}
 .options button {
     background-color: blue;
     color : white;

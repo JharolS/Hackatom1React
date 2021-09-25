@@ -4,9 +4,9 @@ import "./index.css";
 const Options = () => {
     return (
         <div className="options">
-            <h5>Forgot Password?</h5>
+            <div>Forgot Password?</div>
             <button>Login</button>
-            <h5>Create Account</h5>
+            <div>Create Account</div>
         </div>
     )
 }

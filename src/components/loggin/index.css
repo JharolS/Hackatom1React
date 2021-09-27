@@ -1,3 +1,7 @@
 .loggin {
     color : gray;
 }
+.loggin button {
+    color : white;
+    background-color : blue;
+}

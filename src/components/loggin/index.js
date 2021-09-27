@@ -7,7 +7,7 @@ const Loggin = () => {
             <div>Username</div>
             <textarea></textarea>
             <div>Password</div>
-            <textarea></textarea>
+            <textarea></textarea><button>Show</button>
         </div> 
     )
 }
